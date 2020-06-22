@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "188343750863",
+    "firebase_url": "https://filmsubmitfive-c93b5.firebaseio.com",
+    "project_id": "filmsubmitfive-c93b5",
+    "storage_bucket": "filmsubmitfive-c93b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188343750863:android:56aae0402d8b10e9e0a7ba",
+        "android_client_info": {
+          "package_name": "com.cuursoft.favoriteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188343750863-469s647j3ujubpj1gic5camvkvfu1kve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cuursoft.favoriteapp",
+            "certificate_hash": "e2a0619960f056a7f884b6fa821017fbd19a35e7"
+          }
+        },
+        {
+          "client_id": "188343750863-j8omeivn63ef9fmhc2cql2036c8okl0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2CAAzaT4kjo0ykdxcji2k4oLPj-H6EO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188343750863-j8omeivn63ef9fmhc2cql2036c8okl0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
